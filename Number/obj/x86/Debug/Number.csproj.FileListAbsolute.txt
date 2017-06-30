@@ -1,0 +1,16 @@
+c:\users\baran\documents\visual studio 2010\Projects\Number\Number\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\baran\documents\visual studio 2010\Projects\Number\Number\bin\Debug\Number.exe
+c:\users\baran\documents\visual studio 2010\Projects\Number\Number\bin\Debug\Number.pdb
+c:\users\baran\documents\visual studio 2010\Projects\Number\Number\obj\x86\Debug\Number.exe
+c:\users\baran\documents\visual studio 2010\Projects\Number\Number\obj\x86\Debug\Number.pdb
+C:\Users\Baran\Desktop\Rebtel\Number\Number\obj\x86\Debug\Number.exe
+C:\Users\Baran\Desktop\Rebtel\Number\Number\obj\x86\Debug\Number.pdb
+C:\Users\Baran\Desktop\Rebtel\Number\Number\bin\Debug\Number.exe
+C:\Users\Baran\Desktop\Rebtel\Number\Number\bin\Debug\Number.pdb
+C:\Users\Baran\Desktop\Rebtel\Number\Number\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Baran.Topal\Documents\C#Projects\RebtelAssignments\RebtelAssignments\Number\Number\obj\x86\Debug\Number.exe
+C:\Users\Baran.Topal\Documents\C#Projects\RebtelAssignments\RebtelAssignments\Number\Number\obj\x86\Debug\Number.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\Number\Number\obj\x86\Debug\Number.exe
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\Number\Number\obj\x86\Debug\Number.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\Number\Number\bin\Debug\Number.exe
+C:\Users\Baran.Topal\Documents\C#Projects\Other\Other\Number\Number\bin\Debug\Number.pdb
